@@ -33,8 +33,8 @@ using android::hardware::configureRpcThreadpool;
 using android::hardware::joinRpcThreadpool;
 
 // Generated HIDL files
-using android::hardware::power::V1_0::IPower;
-using android::hardware::power::V1_0::implementation::Power;
+using android::hardware::power::V1_1::IPower;
+using android::hardware::power::V1_1::implementation::Power;
 
 int main() {
 
